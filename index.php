@@ -22,7 +22,7 @@
 
     <a href="https://www.ravasimone.com/">This is a link to my website</a> <br>
 
-    <img src="corpo_html.png" alt="mostra se immagine non visualizz" width="104" height="142">
+    <img src="corpo_html.png" alt="mostra se immagine non visualizz" width="404" height="542">
 
     <?php echo '<p>Benvenuti nella mia pagina in php</p>'; ?> 
  </body>
