@@ -20,9 +20,9 @@
     remember that the -br- element is an elementh that doesn't need a body, it start a newline.<br>
     Currently while I am writing we are at the version HTML5.
 
-    <a href="https://www.ravasimone.com/">This is a link to my website</a>
+    <a href="https://www.ravasimone.com/">This is a link to my website</a> <br>
 
-    <img src="corpo_html.png" alt="mostra se immagine non visualizz" width="104" height="142">
+    <img src="src/corpo_html.png" alt="mostra se immagine non visualizz" width="104" height="142">
 
     <?php echo '<p>Benvenuti nella mia pagina in php</p>'; ?> 
  </body>
