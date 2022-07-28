@@ -1,4 +1,27 @@
+div{
+ 
+  margin-left: auto;
+  margin-right: auto;
 
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
   body {
     background-color: rgba(237, 236, 236, 0.589);
   }
